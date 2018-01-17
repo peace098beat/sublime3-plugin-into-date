@@ -1,0 +1,19 @@
+[
+    {
+        "id": "IntoDate",
+        "caption": "IntoDate",
+        "command": "into_date"
+        
+    },
+    {
+        "id": "IntoDateTime",
+        "caption": "IntoDateTime",
+        "command": "into_date_time"
+    },
+    {
+        "id": "IntoTime",
+        "caption": "IntoTime",
+        "command": "into_time"
+    },
+
+]

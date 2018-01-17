@@ -1,0 +1,5 @@
+[
+    {"caption":"IntoDate","command":"into_date"},
+    {"caption":"IntoDateTime","command":"into_date_time"},
+    {"caption":"IntoTime","command":"into_time"},
+]
