@@ -7,7 +7,8 @@ SublimeText3は素晴らしいテキストエディタだ。 私はSublimeText3�
 
 ## インストール
 
-- 「IntoDate」ディレクトリを「/Sublime Text 3/Packages」直下に配置してください。 「/Sublime Text 3/Packages」ディレクトリは、SublimeTextのメニューバーから「Preferences->BrowsePackages」から開くことができます。 BrowsePackagesでは「/Sublime Text 3/Packages/Users」ディレクトリが開くことがありますが、「/Sublime Text 3/Packages」に配置してください。
+- 「IntoDate」ディレクトリを「/Sublime Text 3/Packages」直下に配置してください。 
+-- ※ 「/Sublime Text 3/Packages」ディレクトリは、SublimeTextのメニューバーから「Preferences->BrowsePackages」から開くことができます。 BrowsePackagesでは「/Sublime Text 3/Packages/Users」ディレクトリが開くことがありますが、「/Sublime Text 3/Packages」に配置してください。
 
 
 ## 使い方
