@@ -20,3 +20,10 @@ SublimeText3は素晴らしいテキストエディタだ。 私はSublimeText3�
 	- IntoTime => 08:59:12
 	- IntoDateTime => 2018-01-18 08:59:18
 
+## Package Contorolでのインストール
+
+残念ながらPackage Contorolでのインストールは(今のところ)出来ません。
+
+コードを精査し近日中には登録予定です。
+
+
